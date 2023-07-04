@@ -1,0 +1,26 @@
+{
+  "name": "gerenciamento-react-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissonaquino/gerenciamento-react-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissonaquino/gerenciamento-react-ts/issues"
+  },
+  "homepage": "https://github.com/alissonaquino/gerenciamento-react-ts#readme",
+  "dependencies": {
+    "next": "^13.4.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
