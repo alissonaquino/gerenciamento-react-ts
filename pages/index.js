@@ -1,9 +1,14 @@
 import styles from "../styles/index.module.css"
-import "../styles/globals.css"
-
+import Header from "../components/header.js"
 
 function Home(){
-    return <div>Seja bem vindo ao sistema de gerenciamento</div>
+    return ( 
+    <>
+    <Header/>
+     <h1>Bem Vindo Ao Sistema de Gerenciamento</h1>
+     </>
+
+    )
 }
 
 export default Home
